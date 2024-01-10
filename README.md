@@ -1,16 +1,28 @@
-# msig_food
 
-A new Flutter project.
+# The Meal MSIG - Flutter  
+  
 
-## Getting Started
+> ##### State Management
+>       flutter_bloc
+> ##### Network & Data
+>       alice
+>       dio
+>       equatable
+>       drift
+>       sqlite3_flutter_libs
+> #####  Testing
+>       bloc_test
+>       mockito
+>       mocktail
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Include
+- Api Call
+- Unit Testing
+- Integration Test
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Apk & Video: [Click Here](https://github.com/ronny-sugianto/the_meal-msig/tree/main/files)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Command Argument to Run
+
+    flutter run --dart-define=BASE_URL=https://themealdb.com/api
